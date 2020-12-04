@@ -70,44 +70,25 @@ async def _(event):
 
     input_str = event.pattern_match.group(1)
 
-    if input_str == "tmoon":
+    if input_str == "joker":
 
         await event.edit(input_str)
 
         animation_chars = [
 
-            "🌗",
-            "🌘",    
-            "🌑",
-            "🌒",
-            "🌓",
-            "🌔",
-            "🌕",
-            "🌖",
-            "🌗",
-            "🌘",    
-            "🌑",
-            "🌒",
-            "🌓",
-            "🌔",
-            "🌕",
-            "🌖",
-            "🌗",
-            "🌘",    
-            "🌑",
-            "🌒",
-            "🌓",
-            "🌔",
-            "🌕",
-            "🌖",
-            "🌗",
-            "🌘",    
-            "🌑",
-            "🌒",
-            "🌓",
-            "🌔",
-            "🌕",
-            "🌖"
+            "J",
+            "O",    
+            "K",
+            "E",
+            "R",
+            "〰️",
+            "S",
+            "L",
+            "E",
+            "E",    
+            "P",
+            "〰️",
+            "🙋🏻‍♂️",
         ]
 
         for i in animation_ttl:
@@ -115,4 +96,3 @@ async def _(event):
             await asyncio.sleep(animation_interval)
 
             await event.edit(animation_chars[i % 117])
-

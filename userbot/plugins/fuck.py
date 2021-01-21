@@ -2,7 +2,7 @@
 
 Available Commands:
 
-.sux
+.joker
 
 .fuk
 
@@ -67,20 +67,14 @@ async def _(event):
 
     input_str = event.pattern_match.group(1)
 
-    if input_str == "sux":
+    if input_str == "joker":
 
         await event.edit(input_str)
 
         animation_chars = [
-
-            "🤵       👰",
-
-            "🤵     👰",
-
-            "🤵  👰",
-
-            "🤵👼👰"
-
+             "Hi joker sleep",
+             "hhhhhhhhh"'
+             "Yes ?"
         ]
 
         for i in animation_ttl:

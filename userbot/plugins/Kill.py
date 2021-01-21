@@ -1,4 +1,4 @@
-"""COMMAND : .قتل"""
+"""COMMAND : .kill"""
 
 from telethon import events
 
@@ -40,7 +40,7 @@ async def _(event):
             "------------------>",    
             "------>;(^。^)ノ",
             "(￣ー￣) DED",
-            "**Target killed successfully (°̥̥̥̥̥̥̥̥•̀.̫•́°̥̥̥̥̥̥̥)**",
+            "**تم قتلك 🖕🏻(°̥̥̥̥̥̥̥̥•̀.̫•́°̥̥̥̥̥̥̥)**",
         ]
 
         for i in animation_ttl:

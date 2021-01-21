@@ -73,7 +73,7 @@ async def _(event):
 
         animation_chars = [
              "Hi joker sleep",
-             "hhhhhhhhh"'
+             "hhhhhhhhh",
              "Yes ?"
         ]
 

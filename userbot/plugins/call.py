@@ -40,22 +40,22 @@ async def _(event):
         
             "`Connecting To Telegram Headquarters...`",
             "`Call Connected.`",
-            "`Telegram: Hello This is Telegram HQ. Who is this?`",
-            "`Me: Yo this is` @Dark_Princ3 ,`Please Connect me to my lil bro,Pavel Durov`",
-            "`User Authorised.`",
-            "`Calling Pavel Durov`  `At +916969696969`",
-            "`Private  Call Connected...`",
-            "`Me: Hello Sir, Please Ban This Telegram Account.`",    
-            "`Pavel: May I Know Who Is This?`",
-            "`Me: Yo Brah, I Am` @Dark_Princ3 ",
-            "`Pavel: OMG!!! Long time no see, Wassup Brother...\nI'll Make Sure That Guy Account Will Get Blocked Within 24Hrs.`",
-            "`Me: Thanks, See You Later Brah.`",
-            "`Pavel: Please Don't Thank Brah, Telegram Is Our's. Just Gimme A Call When You Become Free.`",
-            "`Me: Is There Any Issue/Emergency???`",
-            "`Pavel: Yes Sur, There Is A Bug In Telegram v69.6.9.\nI Am Not Able To Fix It. If Possible, Please Help Fix The Bug.`",
-            "`Me: Send Me The App On My Telegram Account, I Will Fix The Bug & Send You.`",
-            "`Pavel: Sure Sur \nTC Bye Bye :)`",
-            "`Private Call Disconnected.`"
+            "`فلزا: هلا جوكر شخبارك ؟`",
+            "`جوكر: والله تمام وانت ؟`",
+            "`فلزا: تمام ، اسمع بقولك`",
+            "`فلزا هذي قناتك ؟`  `@solo`",
+            "`جوكر: لا ذا قروب المحنه بندول`",
+            "`فلزا: اهااا عبالي قناتك`",    
+            "`جوكر: لا انتبه واجد منتحلين`",
+            "`فلزا: حاضر تاج راسي",
+            "`فلزا: عندي مشكله ثانيه مب عارف اسوي بوت السبام`",
+            "`جوكر: يافلزا يافلزا ازعجتني ترا`",
+            "`فلزا ياخي شسوي ماعرفت ابيك تفهمني`",
+            "`جوكر: حبيبي فلزا شرحت كيف الطريقة انا`",
+            "`فلزا: وين شرحت ماشفت ؟؟`",
+            "`جوكر: شرحتها بقناتي وين بعد`",
+            "`فلزا: وشنو اسم قناتك طيببب؟؟؟`",
+            "`جوكر: هذي قناتي انزل فيها الادوات واسوي شروحات @vv1ck`"
         ]
 
         for i in animation_ttl:

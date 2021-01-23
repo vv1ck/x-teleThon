@@ -2,7 +2,7 @@
 
 Available Commands:
 
-.wtf"""
+.no"""
 
 from telethon import events
 
@@ -17,14 +17,14 @@ async def _(event):
     animation_interval = 0.3
     animation_ttl = range(0, 5)
     input_str = event.pattern_match.group(1)
-    if input_str == "wtf":
+    if input_str == "no":
         await event.edit(input_str)
         animation_chars = [
             "What",
             "What The",
             "What The F",
             "What The F Brah",
-            "What The F Brah\nhttps://telegra.ph//file/f3b760e4a99340d331f9b.jpg"
+            "Noooo why?\n https://t.me/J_N_Q/11"
         ]
 
         for i in animation_ttl:

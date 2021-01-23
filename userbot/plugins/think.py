@@ -2,7 +2,7 @@
 
 Available Commands:
 
-.think"""
+.me"""
 
 from telethon import events
 
@@ -17,45 +17,20 @@ async def _(event):
     animation_interval = 0.01
     animation_ttl = range(0, 288)
     input_str = event.pattern_match.group(1)
-    if input_str == "think":
+    if input_str == "me":
         await event.edit(input_str)
         animation_chars = [
-            "THINKING",
-            "THI&K#N₹",
-            "T+IN@I?G",
-            "¿H$NK∆NG",
-            "¶H×NK&N*",
-            "NGITHKIN",
-            "T+I#K@₹G",
-            "THINKING",
-            "THI&K#N₹",
-            "T+IN@I?G",
-            "¿H$NK∆NG",
-            "¶H×NK&N*",
-            "NGITHKIN",
-            "T+I#K@₹G",
-            "THINKING",
-            "THI&K#N₹",
-            "T+IN@I?G",
-            "¿H$NK∆NG",
-            "¶H×NK&N*",
-            "NGITHKIN",
-            "T+I#K@₹G",
-            "THINKING",
-            "THI&K#N₹",
-            "T+IN@I?G",
-            "¿H$NK∆NG",
-            "¶H×NK&N*",
-            "NGITHKIN",
-            "T+I#K@₹G",
-            "THINKING",
-            "THI&K#N₹",
-            "T+IN@I?G",
-            "¿H$NK∆NG",
-            "¶H×NK&N*",
-            "NGITHKIN",
-            "T+I#K@₹G",
-            "THINKING... 🤔"
+            "v",
+            "v",
+            "1",
+            "c",
+            "k",
+            "T",
+            ".",
+            "U",
+            "O",
+            "Oops",
+       "Insta: t.uo | tele: @vv1ck ✅"
         ]
 
         for i in animation_ttl:

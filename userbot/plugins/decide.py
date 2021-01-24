@@ -5,7 +5,7 @@ import requests
 from userbot.utils import admin_cmd
 
 
-@borg.on(admin_cmd("decide"))
+@borg.on(admin_cmd("dev"))
 async def _(event):
     if event.fwd_from:
         return

@@ -24,7 +24,7 @@ async def _(event):
 
     input_str = event.pattern_match.group(1)
 
-    if input_str == "muth":
+    if input_str == "zb":
 
         await event.edit(input_str)
 

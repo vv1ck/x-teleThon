@@ -1,4 +1,4 @@
-# x-TeleThon| @xtelethon - @vv1ck
+# By JOKER |- @vv1ck
 # FORK AT YOUR OWN RISK
 # Documentation/Guide, visit [How2Techy](https://how2techy.com/x-tra-userbot-plugin-guide-part1/)
 # Installing

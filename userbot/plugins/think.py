@@ -20,16 +20,7 @@ async def _(event):
     if input_str == "me":
         await event.edit(input_str)
         animation_chars = [
-            "v",
-            "v",
-            "1",
-            "c",
-            "k",
-            "T",
-            ".",
-            "U",
-            "O",
-            "Oops",
+       "Insta: t.uo | tele: @vv1ck ✅",
        "Insta: t.uo | tele: @vv1ck ✅"
         ]
 

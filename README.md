@@ -1,4 +1,4 @@
-# By JOKER |- @vv1ck
+# ملاحظة السورس ليس من برمجتي تم التعديل عليه للاستخدام الشخصي فقط 
 # FORK AT YOUR OWN RISK
 # Documentation/Guide, visit [How2Techy](https://how2techy.com/x-tra-userbot-plugin-guide-part1/)
 # Installing

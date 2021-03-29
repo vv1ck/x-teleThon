@@ -12,7 +12,7 @@ from userbot import CMD_HELP
 async def _(event):
     if event.fwd_from or event.via_bot_id:
         return
-    await event.edit("Processing @tele_thon ...")
+    await event.edit("Processing @vv1ck / @iOSSSJailbreak ...")
     cmd = event.text.split(" ", maxsplit=1)[1]
     reply_to_id = event.message.id
     if event.reply_to_msg_id:

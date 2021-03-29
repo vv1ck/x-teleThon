@@ -156,7 +156,7 @@ async def _(event):
             "🤯",
             "💔",
             "❤",
-            "i Love You❤ @tele_thon",   
+            "i Love You❤ @alone_kurdish / @JJNN1",   
         ]
     for i in animation_ttl:
             await asyncio.sleep(animation_interval)
@@ -179,7 +179,7 @@ async def _(event):
     await event.edit("----------✈---")
     await event.edit("-----------✈--")
     await event.edit("------------✈-")
-    await event.edit("-------------✈ @tele_thon")
+    await event.edit("-------------✈ @vv1ck")
     await asyncio.sleep(3)
     await event.delete()           
     
@@ -204,7 +204,7 @@ async def _(event):
             "🔴🔴🔴⬜⬜⬜🔵🔵🔵\n🔴🔴🔴⬜⬜⬜🔵🔵🔵\n🔴🔴🔴⬜⬜⬜🔵🔵🔵",
             "🔵🔵🔵⬜⬜⬜🔴🔴🔴\n🔵🔵🔵⬜⬜⬜🔴🔴🔴\n🔵🔵🔵⬜⬜⬜🔴🔴🔴",
             "🔴🔴🔴⬜⬜⬜🔵🔵🔵\n🔴🔴🔴⬜⬜⬜🔵🔵🔵\n🔴🔴🔴⬜⬜⬜🔵🔵🔵",
-            f"{t.me/tele_thon} **Police iz Here**"
+            f"{t.me/iOSSSJailbreak} **Police iz Here**"
 
  ]
     for i in animation_ttl:

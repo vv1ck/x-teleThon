@@ -1,4 +1,5 @@
 # ملاحظة السورس ليس من برمجتي تم التعديل عليه للاستخدام الشخصي فقط 
+# لذالك لا انصحك باستخدامه 
 # FORK AT YOUR OWN RISK
 # Documentation/Guide, visit [How2Techy](https://how2techy.com/x-tra-userbot-plugin-guide-part1/)
 # Installing
